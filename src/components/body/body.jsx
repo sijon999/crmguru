@@ -1,5 +1,5 @@
 
-import Kk from "../../img/keap1.png";
+import Kk from "../../img/keapones.svg";
 import { IoMdStar, IoMdStarHalf } from "react-icons/io";
 import { FaExternalLinkAlt, FaFacebook, FaLinkedin, FaTwitter} from "react-icons/fa";
 

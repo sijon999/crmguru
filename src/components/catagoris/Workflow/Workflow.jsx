@@ -1,8 +1,8 @@
 
-import unnamed from "../../../img/unnamedOne.png";
-import Zapier from "../../../img/2560px-Zapier_logoOne.png";
-import Pabbly from "../../../img/pabblyOne.png";
-import Pipedream from "../../../img/pipedream-logoOne.png";
+import unnamed from "../../../img/unnamedOne.svg";
+import Zapier from "../../../img/2560px-Zapier_logoOne.svg";
+import Pabbly from "../../../img/pabblyOne.svg";
+import Pipedream from "../../../img/pipedream-logoOne.svg";
 
 
 const Workflow = () => {

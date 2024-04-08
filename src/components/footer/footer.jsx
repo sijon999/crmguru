@@ -1,6 +1,6 @@
 
 
-import Flogo from "../../img/crmLogoF.png"
+import Flogo from "../../img/crmLogoF.svg"
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
