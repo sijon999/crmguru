@@ -9,7 +9,7 @@ const Workflow = () => {
   return (
     <div>
       <div className=" h-40 bg-white rounded-md text-black border-2 border-gray-300">
-        <div className="mt-2 ml-4">Workflow Automation</div>
+        <div className="mt-2 ml-4 text-indigo-600 font-bold text-xl	">Workflow Automation</div>
         <div className="border-b-2 size-4 w-full border-gray-300"></div>
 
         <div className="flex ml-12 justify-items-center">

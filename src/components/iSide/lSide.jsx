@@ -9,6 +9,8 @@ import { IoPersonOutline } from "react-icons/io5";
 
 import Workflow from "../catagoris/Workflow/Workflow";
 import FindHelp from "../catagoris/FindHelp/FindHelp";
+import Features from "../catagoris/Features/Features";
+import Pricing from "../Pricing/Pricing";
 
 
 const lSide = () => {
@@ -61,6 +63,8 @@ const lSide = () => {
     <div className="w-5/6 ml-6 mr-16 ">
         <Workflow />
         <FindHelp />
+        <Features />
+        <Pricing />
     </div>
     
 </div>
